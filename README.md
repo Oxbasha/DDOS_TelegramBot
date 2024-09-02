@@ -86,7 +86,7 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 
 ### Admin Commands
 
-- `/add <userId> <duration>` - Add a user with a specified approval duration.
+- `/add <userId>6157259260 <duration>` - Add a user with a specified approval duration.
 - `/remove <userId>` - Remove a user from the authorized list.
 - `/allusers` - Display all authorized users.
 - `/logs` - Display logs of all commands executed by users.
